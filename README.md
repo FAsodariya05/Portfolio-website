@@ -22,18 +22,6 @@ The personal portfolio website showcases my skills, projects, and experiences as
 
 ## Getting Started
 
-To view the website locally or make modifications, follow these steps:
-
-1. Clone the repository: git clone [repository URL]
-2. Open the project folder in your preferred code editor.
-3. Open the portfolio1.html file in a web browser to view the website.
-
-## Contributing
-
-I appreciate any suggestions, feedback, or contributions to enhance this personal portfolio website. If you would like to contribute, please follow the guidelines in the CONTRIBUTING.md file.
-
-## Contact
-
-If you have any questions or inquiries, please feel free to reach out to me through the contact information provided in the website or by using the contact form.
+1. Open the portfolio1.html file in a web browser to view the website.
 
 Thank you for visiting my personal portfolio repository! I hope you find it informative and visually appealing.
