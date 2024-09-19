@@ -9,9 +9,10 @@ The personal portfolio website showcases my skills, projects, and experiences as
 ## Features
 
 - Home: Introduces myself and provides a brief overview of my skills and interests.
+- Services: It includes skills which i have explored throghtout my ecademic journey.
 - About: Details my professional background, education, and relevant experience.
-- Projects: Showcases the projects I have worked on, including descriptions, screenshots, and links to live demos or repositories.
-- Contact: Offers various ways to get in touch with me, such as through email, social media, or a contact form.
+- Portfolio: Showcases the projects I have worked on, including descriptions, screenshots, and banner.
+- Contact: Offers various ways to get in touch with me, such as through email or a contact form.
 
 ## Technologies Used
 
@@ -25,7 +26,7 @@ To view the website locally or make modifications, follow these steps:
 
 1. Clone the repository: git clone [repository URL]
 2. Open the project folder in your preferred code editor.
-3. Open the index.html file in a web browser to view the website.
+3. Open the portfolio1.html file in a web browser to view the website.
 
 ## Contributing
 
